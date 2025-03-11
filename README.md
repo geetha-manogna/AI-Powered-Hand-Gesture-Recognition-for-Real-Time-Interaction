@@ -78,6 +78,9 @@ Once the application is running, you will see:
 * **Predicted gesture displayed with confidence scores**.  
 * **Real-time processing for smooth interaction**.
 
+## **Video Output**
+https://drive.google.com/file/d/1jwHdtEZCwqZry5ARCsWs-RKnYKWAmtPi/view?usp=sharing
+
 ## **Citations & Acknowledgments**
 
 * **Mediapipe Hands API** for hand tracking: [Mediapipe Documentation](https://developers.google.com/mediapipe)  
