@@ -10,10 +10,10 @@ To set up and run the application, follow these steps:
 
 ### **1\. Clone the Repository**
 
-| git clone https://github.com/your-repo-link/hand-gesture-recognition.git |
+| git clone https://github.com/geetha-manogna/AI-Powered-Hand-Gesture-Recognition-for-Real-Time-Interaction.git |
 | :---- |
 
-| cd hand-gesture-recognition |
+| cd AI-Powered-Hand-Gesture-Recognition-for-Real-Time-Interaction |
 | :---- |
 
 ### **2\. Install Dependencies**
